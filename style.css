@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    width: 100%;
+}
+#title{
+    text-align: center;
+    background-color: rgb(253, 255, 132);
+    width: 100%;
+    margin: 0;
+}
+#img-div{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+img{
+    margin: 0;
+    padding: 0 auto;
+}
+#tribute-info{
+    padding: 10px;
+    margin: 0;
+    text-align: center;
+    background-color: rgb(253, 255, 132);
+}
